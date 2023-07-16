@@ -24,10 +24,4 @@ I have developed following basic features in my web application:
 ### Finally you can retreive all users by clicking on list all user.
 ![listalluser](https://github.com/sharmar488/TodoAppUsingJSP_Servlet_Mysql_Jdbc/assets/108114441/4f4ceff5-d41d-41e9-b9df-2259ef2a7ef6)
 
-## 5) Edit Operation/ Update
-### As you can see on the link itself that it is a GET Request to the already stored todo with its Id that retrieves it and allow you to update it. 
-![edit](https://github.com/sharmar488/TodoAppUsingJSP_Servlet_Mysql_Jdbc/assets/108114441/b451f59c-7bce-4b34-bc03-4185e2e3b906)
-
-## 6) Sign Out
-### Last but not the least user can signout by clicking SignOut button on the top right corner which leads back to the login page.
 
