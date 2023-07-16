@@ -77,7 +77,7 @@ throws SQLException, IOException, ServletException {
 
 private void showNewForm(HttpServletRequest request, HttpServletResponse response)
 throws ServletException, IOException {
-	System.out.println("Hi new");
+	System.out.println("Hi new!");
     RequestDispatcher dispatcher = request.getRequestDispatcher("user-form.jsp");
     dispatcher.forward(request, response);
 }
