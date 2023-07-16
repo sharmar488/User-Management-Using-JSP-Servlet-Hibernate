@@ -8,7 +8,7 @@ I have developed following basic features in my web application:
 - Retrieve a User
 - List of all Users
 ## 1) Home Page
-### It shows home page which at first by default calling list all user servlet call but as no user is entered its empty.
+### It shows home page which at first by default calling list all user servlet call. However, as no user is entered its empty.
 ![homepage](https://github.com/sharmar488/TodoAppUsingJSP_Servlet_Mysql_Jdbc/assets/108114441/78d968f8-7afb-4ab1-a00a-bab66506216e)
 
 ## 2) Add New User
